@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sam</h1>
-<h3 align="center">A crafty web developer from Jersey</h3>
+<h3 align="center">A crafty web developer from New Jersey</h3>
 
 - 👨‍💻 All of my projects are available at [https://threesam.com](https://threesam.com)
 
